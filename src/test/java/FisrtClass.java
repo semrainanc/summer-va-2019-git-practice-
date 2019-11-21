@@ -3,6 +3,7 @@ public class FisrtClass {
         
         System.out.println("Hello World");
         System.out.println("Merhaba Dunya");
+        System.out.println("Let`s finish the class");
 
     }
 
