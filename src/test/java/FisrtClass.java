@@ -4,6 +4,9 @@ public class FisrtClass {
         System.out.println("Hello World");
         System.out.println("Merhaba Dunya");
 
+
+
+
     }
 
 }
