@@ -3,6 +3,6 @@ public class SecondClass {
         String myname = "Dunya";
         System.out.println(myname);
         System.out.println("This is another line");
-        System.out.println("Duru");
+        System.out.println("Arslan");
     }
 }
