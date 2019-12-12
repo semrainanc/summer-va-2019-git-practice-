@@ -4,5 +4,6 @@ public class SecondClass {
         System.out.println(myname);
         System.out.println("This is another line");
         System.out.println("Arslan");
+
     }
 }
